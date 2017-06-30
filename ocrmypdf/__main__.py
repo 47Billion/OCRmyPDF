@@ -752,4 +752,5 @@ def run_pipeline():
 
 
 if __name__ == '__main__':
+    print("entering main :) ")
     sys.exit(run_pipeline())
